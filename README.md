@@ -28,7 +28,7 @@ pip install flask
 python3 app.py
 ```
 
-然後開啟瀏覽器 → http://localhost:8899
+
 
 ## 🛠️ 技術
 
